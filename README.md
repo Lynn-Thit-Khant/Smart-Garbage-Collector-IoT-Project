@@ -1,5 +1,7 @@
 # Smart Garbage Collector IoT Project
 
+<img width="1086" height="1448" alt="Smart-garbage-Collector" src="https://github.com/user-attachments/assets/4bcf1f1f-55bc-47f6-a2c9-5d67514536a8" />
+
 ## Overview
 
 This project is an Arduino-based autonomous garbage collection robot designed to detect obstacles, identify waste objects, collect items using servo-controlled mechanisms, and display real-time collection counts on an LCD screen.
