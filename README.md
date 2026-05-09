@@ -1,7 +1,7 @@
 # Smart Garbage Collector IoT Project
 
 <p align="center">
-  <img width="500" alt="Smart Garbage Collector" src="https://github.com/user-attachments/assets/4bcf1f1f-55bc-47f6-a2c9-5d67514536a8" />
+  <img width="350" alt="Smart Garbage Collector" src="https://github.com/user-attachments/assets/4bcf1f1f-55bc-47f6-a2c9-5d67514536a8" />
 </p>
 
 ## Overview
